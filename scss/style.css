@@ -11981,7 +11981,7 @@ textarea.form-control-lg {
 }
 .btn-rounded {
   position: relative;
-  padding: 0.9375rem 4.375rem 0.9375rem 1.25rem;
+  padding: 0.9375rem 4rem 0.9375rem 1.25rem;
   font-weight: 700;
   margin: 0;
   border: 0.1rem solid rgba(255, 255, 255, 0.6);
